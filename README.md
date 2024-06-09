@@ -1,4 +1,6 @@
 Projects Overview
+
+
 This repository contains a collection of small web-based applications created using HTML, CSS, and JavaScript. Some of these projects also integrate APIs to extend their functionality. Below is a brief description of each project:
 
 Password Generator
