@@ -106,8 +106,7 @@ You may need an API key to access the weather service.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 Contact
 For any questions or suggestions, feel free to contact me at timalsinasaugat321@gmail.com.
