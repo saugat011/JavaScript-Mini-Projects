@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    position: relative;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1.3rem 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Example box shadow */
+}
+nav{
+    background-color:#333333;
+    
+}
+.navbar .logo{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 2.2rem;
+}
+#search-input {
+    width: 200px; /* Adjust the width as needed */
+    padding: 0.5rem; /* Padding for comfortable typing */
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 4px; /* Rounded corners */
+    font-size: 1rem; /* Font size */
+    margin-right: 0.5rem; /* Space between input and button */
+}
+
+#search-button {
+    padding: 0.5rem 1rem; /* Padding for the button */
+    border: none; /* Remove default border */
+    border-radius: 4px; /* Rounded corners */
+    background-color: #40E0D0; /* Turquoise background */
+    color: white; /* White text */
+    font-size: 1rem; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+#search-button:hover {
+    background-color: #36C2B3; /* Darker shade on hover */
+}
+
+#blog-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    
+    padding: 0 15px; /* Add padding to give some space from left and right */
+}
+
+.blog-card {
+    background-color: #ffffff;
+    border-radius: 15px; /* Increase the border radius for a smoother look */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Slightly increase the shadow for a more pronounced effect */
+    margin: 15px; /* Increase margin for better spacing */
+    overflow: hidden;
+    width: 300px;
+    border: 1px solid black;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for box-shadow */
+}
+
+.blog-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 3px solid #f0f0f0; /* Add a bottom border for a distinct separation */
+}
+
+.blog-card h2 {
+    padding: 20px 15px 10px; /* Adjust padding for better spacing */
+    font-size: 1.6rem; /* Slightly increase font size */
+    color: #333;
+    line-height: 1.4; /* Improve line height for readability */
+}
+
+.blog-card p {
+    padding: 0 15px 20px; /* Adjust padding for better spacing */
+    font-size: 1.1rem; /* Slightly increase font size */
+    color: #666;
+    line-height: 1.6; /* Improve line height for readability */
+}
+
+.blog-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Increase shadow on hover */
+}
+
+@media (max-width: 768px) {
+    #blog-container {
+        padding: 0 10px; /* Adjust padding for smaller screens */
+    }
+    .blog-card {
+        width: calc(100% - 20px); /* Use calc to account for margins */
+        margin: 10px 10px; /* Adjust margin for better spacing */
+    }
+}
+
+
+
+
+@media (max-width: 768px) {
+    .navbar {
+        justify-content: space-between;
+        padding: 1rem;
+    }
+
+    .navbar ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        background-color: #333333;
+    }
+
+    .navbar ul.active {
+        display: flex;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    #search-input {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+
+    #search-button {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+}

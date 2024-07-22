@@ -1,0 +1,49 @@
+.meme-generator{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+.meme-generator img{
+    height:430px ;
+    object-fit: cover;
+}
+.meme-generator .generate-meme-btn{
+    padding: 8px 20px;
+    border: none;
+    border-left: 4px solid #222;
+    border-right: 4px solid #222;
+    margin: 24px 0;
+    font-size: 20px;
+    color: red;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    position: relative; /* For pseudo-element positioning */
+    overflow: hidden; /* Hide pseudo-element overflow */
+}
+
+.meme-generator .generate-meme-btn::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background-color: rgba(0, 0, 0, 0.1);
+    transition: all 0.75s ease;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+}
+
+.meme-generator .generate-meme-btn:hover::before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.meme-generator .generate-meme-btn:hover {
+    background-color: #f00; /* Change background color on hover */
+    color: #fff; /* Change text color on hover */
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+}
+
+.meme-generator .meme-author{
+    margin: 8px;
+}
