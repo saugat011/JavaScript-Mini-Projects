@@ -1,114 +1,210 @@
-Projects Overview
+Mini Projects Collection
+Welcome to the Mini Projects Collection! This repository contains a diverse array of small yet powerful projects to enhance your coding skills and serve as practical examples for various functionalities.
 
+Projects List
+1. Filterable Gallery
+A gallery that allows users to filter images based on categories or tags.
 
-This repository contains a collection of small web-based applications created using HTML, CSS, and JavaScript. Some of these projects also integrate APIs to extend their functionality. Below is a brief description of each project:
+2. News Search App
+An application to search for news articles using an API, providing users with the latest news based on their query.
 
-Password Generator
-QR Code Generator
-To-Do List
-Calculator
-Currency Converter
-Digital Clock
-Jarvis (Personal Assistant)
-Language Translator
-Rock Paper Scissors Game
-Video Chat App
-Weather App
-Project Descriptions
-1. Password Generator
-Description: A simple web application that generates random passwords based on specified criteria such as length, use of special characters, numbers, and letters.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript
+3. Password Generator
+A simple tool to generate strong and secure passwords with customizable criteria.
 
-2. QR Code Generator
-Description: This application allows users to generate QR codes for any given input text or URL. It uses a QR code generation API to create the QR codes.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript, QR Code API
+4. QR Code Generator
+Generates QR codes from user-provided text or URLs.
 
-3. To-Do List
-Description: A classic to-do list application where users can add, edit, and delete tasks. Tasks can be marked as completed or pending.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript
+5. Search Engine
+A basic search engine interface to demonstrate search functionalities and algorithms.
 
-4. Calculator
-Description: A basic calculator that supports addition, subtraction, multiplication, and division. It features a simple and intuitive user interface.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript
+6. To-Do List
+A task management app that lets users add, edit, and delete tasks.
 
-5. Currency Converter
-Description: This application converts amounts from one currency to another based on real-time exchange rates fetched from an external API.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript, Currency Conversion API
+7. YouTube API App
+Fetches and displays videos from YouTube using the YouTube API based on user search.
 
-6. Digital Clock
-Description: A digital clock that displays the current time and updates every second.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript
+8. Age Calculator
+Calculates the age based on the provided birth date.
 
-7. Jarvis (Personal Assistant)
-Description: A simple personal assistant application inspired by Iron Man’s Jarvis. It performs basic tasks such as telling the time, setting reminders, and answering simple queries.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript
+9. Anime Pics Generator
+Generates random anime pictures from an API.
 
-8. Language Translator
-Description: An application that translates text from one language to another using a translation API.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript, Translation API
+10. Animated Search Bar
+A visually appealing search bar with animation effects.
 
-9. Rock Paper Scissors Game
-Description: A web-based implementation of the classic Rock-Paper-Scissors game where the user plays against the computer.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript
+11. Auto Text Effect Animation
+Displays text with an automatic typing effect.
 
-10. Video Chat App
-Description: A real-time video chat application that allows users to communicate via video calls. It integrates a video chat API for handling the video communication.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript, Video Chat API
+12. Background Image Scroll Effect
+Implements a parallax scrolling effect for background images.
 
-11. Weather App
-Description: This application provides real-time weather information for any city. It uses a weather API to fetch and display the current weather conditions.
-Status: Completed
-Technologies Used: HTML, CSS, JavaScript, Weather API
+13. Background Video
+Shows how to implement a background video in a web page.
 
-Getting Started
-To get started with any of these projects, simply clone this repository and open the corresponding HTML file in your web browser. Each project is self-contained and does not require any additional setup, except for those integrating external APIs which may require API keys.
+14. Blurred Background Popup
+Creates a popup with a blurred background effect.
 
-Cloning the Repository
-bash
-Copy code
-git clone https://github.com/saugat011/your-repository-name.git
-cd your-repository-name
-Running a Project
-Navigate to the project directory.
-Open the index.html file in your web browser.
-For example, to run the Password Generator:
+15. BMI Calculator
+Calculates Body Mass Index based on user input.
 
-bash
-Copy code
-cd password-generator
-open index.html
-API Integration
-QR Code Generator
-This project uses the QRCode API to generate QR codes.
-Ensure you have an internet connection to use this functionality.
-Currency Converter
-This project uses a Currency Conversion API to fetch real-time exchange rates.
-You might need an API key to access the conversion service.
-Language Translator
-This project integrates with a Translation API to translate text between different languages.
-An API key may be required for accessing the translation service.
-Video Chat App
-This project uses a Video Chat API for real-time video communication.
-Ensure you have an internet connection and API access.
-Weather App
-This project uses a Weather API to fetch current weather information.
-You may need an API key to access the weather service.
-Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
+16. Button Ripple Effect
+Adds a ripple effect animation to buttons.
 
+17. Calculator
+A basic arithmetic calculator.
 
+18. Clock
+Displays the current time with an analog or digital clock.
 
-Contact
-For any questions or suggestions, feel free to contact me at timalsinasaugat321@gmail.com.
+19. Counter
+Implements a counter that can be incremented, decremented, and reset.
 
-This README provides an overview of each project along with instructions on how to get started and details on the API integrations. If you have any issues or need further assistance, please don't hesitate to reach out.
+20. Currency Converter
+Converts amounts from one currency to another using an API.
+
+21. Dad Jokes Generator
+Fetches and displays random dad jokes from an API.
+
+22. Dark Mode Toggle
+Allows users to switch between light and dark themes.
+
+23. Dice Roll Simulator
+Simulates rolling a pair of dice.
+
+24. Digital Clock
+A real-time digital clock display.
+
+25. Double Landing Page
+A landing page with two sections that slide into view.
+
+26. Drum Kits
+An interactive drum kit that plays sounds on keypresses.
+
+27. Emoji Rating
+A rating system using emojis.
+
+28. English Dictionary
+Fetches definitions of words from an API.
+
+29. Feedback UI
+A user interface for submitting feedback with a rating system.
+
+30. Heart Trail Animation
+Creates a trailing heart animation following the cursor.
+
+31. Image Search App
+An app to search and display images from an API based on user input.
+
+32. Image Slider
+A simple image slider/carousel.
+
+33. Jarvis
+A basic virtual assistant simulation.
+
+34. Language Translator
+Translates text from one language to another using an API.
+
+35. Loading Bar
+A loading bar animation to indicate progress.
+
+36. Loan Calculator
+Calculates loan payments based on principal, interest rate, and term.
+
+37. Meme Generator
+Generates random memes from an API.
+
+38. Mini Calendar
+Displays a small calendar for the current month.
+
+39. Month Calendar
+Displays a full calendar for the current month.
+
+40. Mouse Event
+Demonstrates various mouse event interactions.
+
+41. Multiplication App
+A simple app to practice multiplication tables.
+
+42. Music Player
+A basic web-based music player.
+
+43. Navbar
+A responsive navigation bar for websites.
+
+44. New Year Countdown
+A countdown timer for the new year.
+
+45. Note App
+A simple note-taking application.
+
+46. Pomodoro Timer
+A timer for the Pomodoro Technique to boost productivity.
+
+47. Profile Statistics
+Displays user profile statistics.
+
+48. Q and A Section
+A FAQ section with expandable answers.
+
+49. Random Color Generator
+Generates random colors.
+
+50. Random Emoji
+Displays random emojis.
+
+51. Random Photos
+Fetches and displays random photos from an API.
+
+52. Random Quote Generator
+Displays random quotes from an API.
+
+53. Real-Time Character Counter
+Counts characters in real-time as the user types.
+
+54. Recipe Book App
+Displays recipes and cooking instructions.
+
+55. Rock Paper Scissors
+A simple game of Rock, Paper, Scissors.
+
+56. Rotating Image Gallery
+An image gallery with rotating effect.
+
+57. Sidebar
+A collapsible sidebar menu.
+
+58. Social Media Selector Menu
+A menu for selecting social media platforms.
+
+59. Step Progress Bar
+A progress bar indicating steps in a process.
+
+60. Sticky Navbar
+A navigation bar that sticks to the top of the page on scroll.
+
+61. Stopwatch
+A simple stopwatch with start, stop, and reset functions.
+
+62. Tabs
+Implements a tabbed interface for content sections.
+
+63. Temperature Converter
+Converts temperatures between Celsius, Fahrenheit, and Kelvin.
+
+64. Testimonial Slider
+A slider for user testimonials.
+
+65. Tip Calculator
+Calculates the tip and total bill based on the bill amount and tip percentage.
+
+66. Video Chat App
+A basic video chat application using WebRTC.
+
+67. Video Trailer Popup
+Displays video trailers in a popup.
+
+68. Weather App
+Displays weather information based on the user's location or search query.
+
+69. Weight Converter
+Converts weights between different units.
