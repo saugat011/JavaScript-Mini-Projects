@@ -52,7 +52,7 @@ optionImages.forEach((image, index) => {
         PR: "You",
         PS: "Cpu",
         SS: "Draw",
-        SR: "You",
+        SR: "Cpu",
         SP: "User",
       };
 
