@@ -1,4 +1,6 @@
 To view all the mini projects live on the website, visit:https://minijsproject.netlify.app/
+
+
 Mini Projects Collection
 Welcome to the Mini Projects Collection! This repository contains a diverse array of small yet powerful projects to enhance your coding skills and serve as practical examples for various functionalities.
 
