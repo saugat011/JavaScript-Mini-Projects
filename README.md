@@ -1,213 +1,225 @@
-To view all the mini projects live on the website, visit:https://minijsproject.netlify.app/
+# JavaScript Mini Projects
 
+Welcome to the **JavaScript Mini Projects** repository! This collection of small yet powerful projects was built to enhance your JavaScript skills. These projects cover a variety of topics, including DOM manipulation, API integration, user interfaces, and application development.
 
-Mini Projects Collection
-Welcome to the Mini Projects Collection! This repository contains a diverse array of small yet powerful projects to enhance your coding skills and serve as practical examples for various functionalities.
+## Live Projects
 
-Projects List
-1. Filterable Gallery
-A gallery that allows users to filter images based on categories or tags.
+To view all the mini projects live on the website, visit:  
+[https://minijsproject.netlify.app/](https://minijsproject.netlify.app/)
 
-2. News Search App
-An application to search for news articles using an API, providing users with the latest news based on their query.
+## Projects List
 
-3. Password Generator
-A simple tool to generate strong and secure passwords with customizable criteria.
+1. **Filterable Gallery**  
+   A gallery that allows users to filter images based on categories or tags.
 
-4. QR Code Generator
-Generates QR codes from user-provided text or URLs.
+2. **News Search App**  
+   An application to search for news articles using an API, providing users with the latest news based on their query.
 
-5. Search Engine
-A basic search engine interface to demonstrate search functionalities and algorithms.
+3. **Password Generator**  
+   A simple tool to generate strong and secure passwords with customizable criteria.
 
-6. To-Do List
-A task management app that lets users add, edit, and delete tasks.
+4. **QR Code Generator**  
+   Generates QR codes from user-provided text or URLs.
 
-7. YouTube API App
-Fetches and displays videos from YouTube using the YouTube API based on user search.
+5. **Search Engine**  
+   A basic search engine interface to demonstrate search functionalities and algorithms.
 
-8. Age Calculator
-Calculates the age based on the provided birth date.
+6. **To-Do List**  
+   A task management app that lets users add, edit, and delete tasks.
 
-9. Anime Pics Generator
-Generates random anime pictures from an API.
+7. **YouTube API App**  
+   Fetches and displays videos from YouTube using the YouTube API based on user search.
 
-10. Animated Search Bar
-A visually appealing search bar with animation effects.
+8. **Age Calculator**  
+   Calculates the age based on the provided birth date.
 
-11. Auto Text Effect Animation
-Displays text with an automatic typing effect.
+9. **Anime Pics Generator**  
+   Generates random anime pictures from an API.
 
-12. Background Image Scroll Effect
-Implements a parallax scrolling effect for background images.
+10. **Animated Search Bar**  
+    A visually appealing search bar with animation effects.
 
-13. Background Video
-Shows how to implement a background video in a web page.
+11. **Auto Text Effect Animation**  
+    Displays text with an automatic typing effect.
 
-14. Blurred Background Popup
-Creates a popup with a blurred background effect.
+12. **Background Image Scroll Effect**  
+    Implements a parallax scrolling effect for background images.
 
-15. BMI Calculator
-Calculates Body Mass Index based on user input.
+13. **Background Video**  
+    Shows how to implement a background video in a web page.
 
-16. Button Ripple Effect
-Adds a ripple effect animation to buttons.
+14. **Blurred Background Popup**  
+    Creates a popup with a blurred background effect.
 
-17. Calculator
-A basic arithmetic calculator.
+15. **BMI Calculator**  
+    Calculates Body Mass Index based on user input.
 
-18. Clock
-Displays the current time with an analog or digital clock.
+16. **Button Ripple Effect**  
+    Adds a ripple effect animation to buttons.
 
-19. Counter
-Implements a counter that can be incremented, decremented, and reset.
+17. **Calculator**  
+    A basic arithmetic calculator.
 
-20. Currency Converter
-Converts amounts from one currency to another using an API.
+18. **Clock**  
+    Displays the current time with an analog or digital clock.
 
-21. Dad Jokes Generator
-Fetches and displays random dad jokes from an API.
+19. **Counter**  
+    Implements a counter that can be incremented, decremented, and reset.
 
-22. Dark Mode Toggle
-Allows users to switch between light and dark themes.
+20. **Currency Converter**  
+    Converts amounts from one currency to another using an API.
 
-23. Dice Roll Simulator
-Simulates rolling a pair of dice.
+21. **Dad Jokes Generator**  
+    Fetches and displays random dad jokes from an API.
 
-24. Digital Clock
-A real-time digital clock display.
+22. **Dark Mode Toggle**  
+    Allows users to switch between light and dark themes.
 
-25. Double Landing Page
-A landing page with two sections that slide into view.
+23. **Dice Roll Simulator**  
+    Simulates rolling a pair of dice.
 
-26. Drum Kits
-An interactive drum kit that plays sounds on keypresses.
+24. **Digital Clock**  
+    A real-time digital clock display.
 
-27. Emoji Rating
-A rating system using emojis.
+25. **Double Landing Page**  
+    A landing page with two sections that slide into view.
 
-28. English Dictionary
-Fetches definitions of words from an API.
+26. **Drum Kits**  
+    An interactive drum kit that plays sounds on keypresses.
 
-29. Feedback UI
-A user interface for submitting feedback with a rating system.
+27. **Emoji Rating**  
+    A rating system using emojis.
 
-30. Heart Trail Animation
-Creates a trailing heart animation following the cursor.
+28. **English Dictionary**  
+    Fetches definitions of words from an API.
 
-31. Image Search App
-An app to search and display images from an API based on user input.
+29. **Feedback UI**  
+    A user interface for submitting feedback with a rating system.
 
-32. Image Slider
-A simple image slider/carousel.
+30. **Heart Trail Animation**  
+    Creates a trailing heart animation following the cursor.
 
-33. Jarvis
-A basic virtual assistant simulation.
+31. **Image Search App**  
+    An app to search and display images from an API based on user input.
 
-34. Language Translator
-Translates text from one language to another using an API.
+32. **Image Slider**  
+    A simple image slider/carousel.
 
-35. Loading Bar
-A loading bar animation to indicate progress.
+33. **Jarvis**  
+    A basic virtual assistant simulation.
 
-36. Loan Calculator
-Calculates loan payments based on principal, interest rate, and term.
+34. **Language Translator**  
+    Translates text from one language to another using an API.
 
-37. Meme Generator
-Generates random memes from an API.
+35. **Loading Bar**  
+    A loading bar animation to indicate progress.
 
-38. Mini Calendar
-Displays a small calendar for the current month.
+36. **Loan Calculator**  
+    Calculates loan payments based on principal, interest rate, and term.
 
-39. Month Calendar
-Displays a full calendar for the current month.
+37. **Meme Generator**  
+    Generates random memes from an API.
 
-40. Mouse Event
-Demonstrates various mouse event interactions.
+38. **Mini Calendar**  
+    Displays a small calendar for the current month.
 
-41. Multiplication App
-A simple app to practice multiplication tables.
+39. **Month Calendar**  
+    Displays a full calendar for the current month.
 
-42. Music Player
-A basic web-based music player.
+40. **Mouse Event**  
+    Demonstrates various mouse event interactions.
 
-43. Navbar
-A responsive navigation bar for websites.
+41. **Multiplication App**  
+    A simple app to practice multiplication tables.
 
-44. New Year Countdown
-A countdown timer for the new year.
+42. **Music Player**  
+    A basic web-based music player.
 
-45. Note App
-A simple note-taking application.
+43. **Navbar**  
+    A responsive navigation bar for websites.
 
-46. Pomodoro Timer
-A timer for the Pomodoro Technique to boost productivity.
+44. **New Year Countdown**  
+    A countdown timer for the new year.
 
-47. Profile Statistics
-Displays user profile statistics.
+45. **Note App**  
+    A simple note-taking application.
 
-48. Q and A Section
-A FAQ section with expandable answers.
+46. **Pomodoro Timer**  
+    A timer for the Pomodoro Technique to boost productivity.
 
-49. Random Color Generator
-Generates random colors.
+47. **Profile Statistics**  
+    Displays user profile statistics.
 
-50. Random Emoji
-Displays random emojis.
+48. **Q and A Section**  
+    A FAQ section with expandable answers.
 
-51. Random Photos
-Fetches and displays random photos from an API.
+49. **Random Color Generator**  
+    Generates random colors.
 
-52. Random Quote Generator
-Displays random quotes from an API.
+50. **Random Emoji**  
+    Displays random emojis.
 
-53. Real-Time Character Counter
-Counts characters in real-time as the user types.
+51. **Random Photos**  
+    Fetches and displays random photos from an API.
 
-54. Recipe Book App
-Displays recipes and cooking instructions.
+52. **Random Quote Generator**  
+    Displays random quotes from an API.
 
-55. Rock Paper Scissors
-A simple game of Rock, Paper, Scissors.
+53. **Real-Time Character Counter**  
+    Counts characters in real-time as the user types.
 
-56. Rotating Image Gallery
-An image gallery with rotating effect.
+54. **Recipe Book App**  
+    Displays recipes and cooking instructions.
 
-57. Sidebar
-A collapsible sidebar menu.
+55. **Rock Paper Scissors**  
+    A simple game of Rock, Paper, Scissors.
 
-58. Social Media Selector Menu
-A menu for selecting social media platforms.
+56. **Rotating Image Gallery**  
+    An image gallery with rotating effect.
 
-59. Step Progress Bar
-A progress bar indicating steps in a process.
+57. **Sidebar**  
+    A collapsible sidebar menu.
 
-60. Sticky Navbar
-A navigation bar that sticks to the top of the page on scroll.
+58. **Social Media Selector Menu**  
+    A menu for selecting social media platforms.
 
-61. Stopwatch
-A simple stopwatch with start, stop, and reset functions.
+59. **Step Progress Bar**  
+    A progress bar indicating steps in a process.
 
-62. Tabs
-Implements a tabbed interface for content sections.
+60. **Sticky Navbar**  
+    A navigation bar that sticks to the top of the page on scroll.
 
-63. Temperature Converter
-Converts temperatures between Celsius, Fahrenheit, and Kelvin.
+61. **Stopwatch**  
+    A simple stopwatch with start, stop, and reset functions.
 
-64. Testimonial Slider
-A slider for user testimonials.
+62. **Tabs**  
+    Implements a tabbed interface for content sections.
 
-65. Tip Calculator
-Calculates the tip and total bill based on the bill amount and tip percentage.
+63. **Temperature Converter**  
+    Converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
-66. Video Chat App
-A basic video chat application using WebRTC.
+64. **Testimonial Slider**  
+    A slider for user testimonials.
 
-67. Video Trailer Popup
-Displays video trailers in a popup.
+65. **Tip Calculator**  
+    Calculates the tip and total bill based on the bill amount and tip percentage.
 
-68. Weather App
-Displays weather information based on the user's location or search query.
+66. **Video Chat App**  
+    A basic video chat application using WebRTC.
 
-69. Weight Converter
-Converts weights between different units.
+67. **Video Trailer Popup**  
+    Displays video trailers in a popup.
+
+68. **Weather App**  
+    Displays weather information based on the user's location or search query.
+
+69. **Weight Converter**  
+    Converts weights between different units.
+
+## Installation
+
+To run any of these projects locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saugat011/JavaScript-Mini-Projects.git
